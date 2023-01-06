@@ -1,4 +1,4 @@
-<!-- In the getdata.php file -->
+<!-- In the backed.php file -->
 
 <?php
 // connection credention to database
